@@ -1,7 +1,18 @@
-Hey,Yo!!!
-<br>
-<br>
-I am Vighnesh Gaddam, and this is my Java repository where I share and document my journey in the world of Java programming. Here, you'll find a collection of my work, projects, and insights as I continue to expand my knowledge and expertise in Java development. Feel free to explore the contents of this repository as I strive to contribute to the Java community and engage in continuous learning and improvement.
-<br>
-<br>
-Thank you for visiting, and I hope you find my repository both informative and inspiring as you explore the diverse facets of Java programming
+
+# 📚 Learning Resources
+
+I actively use the following platforms and creators to strengthen my knowledge of **Java, Data Structures, and Algorithms**:
+
+**Websites**
+
+* NeetCode — [https://neetcode.io/](https://neetcode.io/)
+* VisuAlgo — [https://visualgo.net/en](https://visualgo.net/en)
+* AlgoMaster — [https://algomaster.io/](https://algomaster.io/)
+
+**YouTube**
+
+* Abdul Bari — [https://www.youtube.com/@abdul_bari](https://www.youtube.com/@abdul_bari)
+* Michael Sambol — [https://www.youtube.com/@MichaelSambol](https://www.youtube.com/@MichaelSambol)
+* NeetCode — [https://www.youtube.com/@NeetCode/](https://www.youtube.com/@NeetCode/)
+
+---
